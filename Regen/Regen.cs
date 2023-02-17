@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Management.Automation;
 
+// test
 namespace regen
 {
     internal class Regen
