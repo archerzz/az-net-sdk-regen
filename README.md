@@ -18,4 +18,4 @@ dotnet run /path/to/azure-sdk-for-net
 ```
 
 For other options, please see the help message of the tool.
-T
+Test
